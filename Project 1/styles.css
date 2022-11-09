@@ -1,0 +1,47 @@
+#Title{
+    color: #00ABB3;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+#Body{
+   font-family: 'Courier New', Courier, monospace;
+   background-color: #B2B2B2;
+}
+
+.Button{
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+    background-color: white;
+    font-size: large;
+    color: #00ABB3;
+   
+    border-radius: 200px;
+    border-width: 3px;
+    border-style: double;
+    border-color:#00ABB3;
+}
+
+.Button:hover{
+    background-color:#00ABB3;
+    color: white;
+    border-color: white;
+}
+
+.Label{
+    background-color:white;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Text{
+    resize: none;
+    
+}
