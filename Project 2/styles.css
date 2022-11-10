@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: #E8F9FD;
+}
+
+.PageTitle{
+    background-color: #42032C;
+    color: white;
+    padding: 10px;
+    
+}
+
+#Number{
+    font-size: 300%;
+}
+
+Button{
+    background-color: #42032C;
+    color: white;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 200px;
+}
+
+Button:hover{
+    background-color: #F8CB2E;
+    color: black;
+}
