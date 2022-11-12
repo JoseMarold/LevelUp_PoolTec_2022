@@ -1,0 +1,30 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.PageTitle{
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+
+#ColorText{
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 13px;
+    text-align: left;
+
+}
+
+#RandomColor{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+#RandomColor:hover{
+    background-color: white;
+    color: black;
+}
