@@ -3,7 +3,7 @@
 function main(){
     for (i = 0; i < 6; i++){
         minValue = 0;
-        maxValue = 900;
+        maxValue = 800;
         random = Math.floor(Math.random() * (maxValue - minValue) + minValue);
         GetPokemon(random, i + 1);
     }
